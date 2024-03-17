@@ -2,7 +2,13 @@
 
 ### Introdução
 
-Terceiro Projeto FIAP/2024 
+Terceiro Projeto FIAP/2024
+
+
+### Looker dashboard
+
+https://lookerstudio.google.com/reporting/a6af6c92-d931-4aeb-942a-857bfb6450b2
+
 
 ### Iniciar Projeto
 
@@ -16,12 +22,6 @@ source env/bin/activate
 ```bash
 poetry install
 ```
-
-
-### Looker dashboard
-
-https://lookerstudio.google.com/reporting/a6af6c92-d931-4aeb-942a-857bfb6450b2
-
 
 ### Important files
 
